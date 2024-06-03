@@ -1,0 +1,1 @@
+print("hello_world") is an example of a print statement in python
